@@ -1,0 +1,11 @@
+resources:
+   - jmeter_influxdb_data.yaml
+   - jmeter_influxdb_configmap.yaml
+   - jmeter_influxdb_secrets.yaml
+   - jmeter_influxdb_deploy.yaml
+   - jmeter_influxdb_svc.yaml
+   - jmeter_slaves_deploy.yaml
+   - jmeter_slaves_svc.yaml
+   - jmeter_master_configmap.yaml
+   - jmeter_master_deploy.yaml
+   - jmeter_grafana_reporter.yaml
