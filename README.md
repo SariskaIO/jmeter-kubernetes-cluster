@@ -30,7 +30,7 @@ https://goo.gl/mkoX9E
 https://reporter.sariska.io/api/v5/report
 
 
-## references
+## References
 
 https://blog.kubernauts.io/load-testing-as-a-service-with-jmeter-on-kubernetes-fc5288bb0c8b
 
